@@ -2,7 +2,7 @@
  {
   "input": "In the last video, you and I looked at this demo here, where we shine linearly polarized light through a tube full of sugar water, and we saw how it rather mysteriously results in these colored diagonal stripes.",
   "model": "nmt",
-  "translatedText": "Nell'ultimo video, tu ed io abbiamo guardato questa demo qui, dove facciamo brillare luce polarizzata linearmente attraverso un tubo pieno di acqua zuccherata, e abbiamo visto come risulta in modo piuttosto misterioso in queste strisce diagonali colorate.",
+  "translatedText": "Nell'ultimo video, io e te abbiamo guardato questa demo qui, dove facciamo brillare linearmente della luce polarizzata attraverso un tubo pieno di acqua zuccherata, e abbiamo visto come risulta in modo piuttosto misterioso in queste strisce diagonali colorate.",
   "time_range": [
    0.0,
    11.58
@@ -11,7 +11,7 @@
  {
   "input": "There, I walked through the general outline for an explanation, keeping track of what questions still need to be answered.",
   "model": "nmt",
-  "translatedText": "Lì ho seguito lo schema generale per una spiegazione, tenendo traccia di quali domande necessitano ancora di risposta.",
+  "translatedText": "Lì ho seguito lo schema generale per una spiegazione, tenendo traccia di quali domande necessitino ancora di risposta.",
   "time_range": [
    12.52,
    18.06
@@ -20,7 +20,7 @@
  {
   "input": "Namely, why does sugar water twist the polarization direction of light?",
   "model": "nmt",
-  "translatedText": "Vale a dire, perché l’acqua zuccherata distorce la direzione di polarizzazione della luce?",
+  "translatedText": "Vale a dire, perché l’acqua zuccherata attorciglia la direzione di polarizzazione della luce?",
   "time_range": [
    18.6,
    22.48
@@ -29,7 +29,7 @@
  {
   "input": "Why does that twisting rate depend on the color of the light?",
   "model": "nmt",
-  "translatedText": "Perché la velocità di torsione dipende dal colore della luce?",
+  "translatedText": "Perché la velocità di attorcigliamento dipende dal colore della luce?",
   "time_range": [
    23.08,
    25.9
@@ -38,7 +38,7 @@
  {
   "input": "And why, even if you understand that this twist is happening, would you see any evidence of it when viewing the tube from the side, with no additional polarizing filters?",
   "model": "nmt",
-  "translatedText": "E perché, anche se capissi che questa svolta sta accadendo, ne vedresti qualche prova guardando il tubo di lato, senza filtri polarizzatori aggiuntivi?",
+  "translatedText": "E perché, anche se capissi che questo attorcigliamento sta accadendo, ne vedresti qualche prova guardando il tubo di lato, senza filtri polarizzatori aggiuntivi?",
   "time_range": [
    25.9,
    34.62
@@ -65,7 +65,7 @@
  {
   "input": "For example, one of the first things you learn, say in a high school physics class, is that charges with the same sign tend to repel each other.",
   "model": "nmt",
-  "translatedText": "Ad esempio, una delle prime cose che impari, ad esempio durante una lezione di fisica al liceo, è che le cariche con lo stesso segno tendono a respingersi a vicenda.",
+  "translatedText": "Ad esempio, una delle prime cose che impari, tipo durante una lezione di fisica al liceo, è che le cariche con lo stesso segno tendono a respingersi a vicenda.",
   "time_range": [
    57.62,
    64.48
@@ -128,7 +128,7 @@
  {
   "input": "So for example, if the distance between them increases by a factor of 3, the force that they're applying to each other goes down by a factor of 9.",
   "model": "nmt",
-  "translatedText": "Quindi, ad esempio, se la distanza tra loro aumenta di un fattore 3, la forza che si applicano l'uno all'altro diminuisce di un fattore 9.",
+  "translatedText": "Quindi, ad esempio, se la distanza tra loro aumenta di un fattore 3, la forza che si applicano l'un l'altro diminuisce di un fattore 9.",
   "time_range": [
    98.72,
    106.76
@@ -137,7 +137,7 @@
  {
   "input": "Another way you might see a law like this written down is to focus on just one charged particle, and then say for every point in space, if there was a second charge there, what force would this first charge be applying to that second one?",
   "model": "nmt",
-  "translatedText": "Un altro modo in cui potresti vedere scritta una legge come questa è concentrarti su una sola particella carica, e poi dire per ogni punto nello spazio, se lì ci fosse una seconda carica, quale forza applicherebbe questa prima carica a quella seconda?",
+  "translatedText": "Un altro modo in cui potresti vedere scritta una legge come questa è concentrarti su una sola particella carica, e poi chiederti per ogni punto nello spazio, se lì ci fosse una seconda carica, quale forza applicherebbe questa prima carica a quella seconda?",
   "time_range": [
    107.74,
    121.36
@@ -173,7 +173,7 @@
  {
   "input": "I bring up Coulomb's law to emphasize that it's not the full story.",
   "model": "nmt",
-  "translatedText": "Cito la legge di Coulomb per sottolineare che non è la storia completa.",
+  "translatedText": "Cito la legge di Coulomb per sottolineare che non è il quadro completo.",
   "time_range": [
    151.60000000000002,
    155.72
@@ -182,7 +182,7 @@
  {
   "input": "There are other ways that charges influence each other.",
   "model": "nmt",
-  "translatedText": "Esistono altri modi in cui le tariffe si influenzano a vicenda.",
+  "translatedText": "Esistono altri modi in cui le cariche si influenzano a vicenda.",
   "time_range": [
    156.1,
    158.4
@@ -200,7 +200,7 @@
  {
   "input": "If you wiggle one charge up and down, then after a little bit of a delay, a second charge some distance to its right will be induced to wiggle up and down as well.",
   "model": "nmt",
-  "translatedText": "Se muovi una carica su e giù, dopo un po' di ritardo, anche una seconda carica a una certa distanza alla sua destra sarà indotta a muoversi su e giù.",
+  "translatedText": "Se muovi una carica su e giù, con un po' di ritardo, anche una seconda carica a una certa distanza alla sua destra sarà indotta a muoversi su e giù.",
   "time_range": [
    162.9,
    171.62
@@ -596,7 +596,7 @@
  {
   "input": "One thing that's worth emphasizing when you see light illustrated with a sine wave like this is that even though that wave is being drawn in two or three dimensions, it's only describing the electric field along a one-dimensional line, namely the base of all those vectors.",
   "model": "nmt",
-  "translatedText": "Una cosa che vale la pena sottolineare quando vedi la luce illustrata con un'onda sinusoidale come questa è che anche se quell'onda viene disegnata in due o tre dimensioni, descrive solo il campo elettrico lungo una linea unidimensionale, vale a dire la base di tutti quelli vettori.",
+  "translatedText": "Una cosa che vale la pena sottolineare quando vedi la luce illustrata con un'onda sinusoidale come questa è che anche se quell'onda viene disegnata in due o tre dimensioni, descrive solo il campo elettrico lungo una linea unidimensionale, vale a dire la base di tutti quei vettori.",
   "time_range": [
    554.46,
    569.64
@@ -668,7 +668,7 @@
  {
   "input": "What it means for light to be circularly polarized is that at that point, the electric field vector is just rotating in a circle.",
   "model": "nmt",
-  "translatedText": "Ciò che significa che la luce è polarizzata circolarmente è che in quel punto il vettore del campo elettrico sta semplicemente ruotando in cerchio.",
+  "translatedText": "Ciò che significa per la luce essere polarizzata circolarmente è che in quel punto il vettore del campo elettrico sta semplicemente ruotando in cerchio.",
   "time_range": [
    610.6800000000001,
    617.3
@@ -677,7 +677,7 @@
  {
   "input": "People often find circular polarization a little confusing, and I suspect part of the reason for that is that it's hard to illustrate with a static diagram, but also it's a little confusing when you try to think about the full electric field.",
   "model": "nmt",
-  "translatedText": "Le persone spesso trovano la polarizzazione circolare un po' confusa, e sospetto che parte della ragione sia che è difficile da illustrare con un diagramma statico, ma crea anche un po' di confusione quando si prova a pensare al campo elettrico completo.",
+  "translatedText": "Le persone spesso trovano la polarizzazione circolare un po' confondente, e sospetto che parte della ragione sia che è difficile da illustrare con un diagramma statico, ma crea anche un po' di confusione quando si prova a pensare al campo elettrico completo.",
   "time_range": [
    617.3,
    628.82
@@ -704,7 +704,7 @@
  {
   "input": "The very last thing I'll mention is that while everything here is a classical description of light, the important points still hold up in quantum mechanics.",
   "model": "nmt",
-  "translatedText": "L'ultima cosa che menzionerò è che mentre qui tutto è una descrizione classica della luce, i punti importanti restano validi nella meccanica quantistica.",
+  "translatedText": "L'ultima cosa che menzionerò è che mentre tutto qui è una descrizione classica della luce, i punti importanti restano validi nella meccanica quantistica.",
   "time_range": [
    644.16,
    651.12
@@ -722,7 +722,7 @@
  {
   "input": "The main difference with quantum mechanics is that the energy in this wave doesn't scale up and down continuously like you might expect, it comes in discrete little steps.",
   "model": "nmt",
-  "translatedText": "La differenza principale con la meccanica quantistica è che l'energia in quest'onda non aumenta e diminuisce continuamente come ci si potrebbe aspettare, ma arriva a piccoli passi discreti.",
+  "translatedText": "La differenza principale con la meccanica quantistica è che l'energia in quest'onda non aumenta e diminuisce continuamente come ci si potrebbe aspettare, ma arriva in piccoli passi discreti.",
   "time_range": [
    657.02,
    666.06
@@ -767,7 +767,7 @@
  {
   "input": "To think about this, you need to imagine an observer to the side of the tube, and then for a particular pure color, say red, if the observer looks in the tube and sees that color, it's because light of that color has bounced off something at that point in the tube and then propagated towards the eye of the observer.",
   "model": "nmt",
-  "translatedText": "Per pensarci, è necessario immaginare un osservatore a lato del tubo, e quindi per un particolare colore puro, diciamo rosso, se l'osservatore guarda nel tubo e vede quel colore, è perché la luce di quel colore è rimbalzata qualcosa in quel punto del tubo e poi si è propagato verso l'occhio dell'osservatore.",
+  "translatedText": "Per pensarci, è necessario immaginare un osservatore a lato del tubo, e quindi per un particolare colore puro, diciamo rosso, se l'osservatore guarda nel tubo e vede quel colore, è perché la luce di quel colore è rimbalzata da qualcosa in quel punto del tubo e poi si è propagata verso l'occhio dell'osservatore.",
   "time_range": [
    697.34,
    713.38
@@ -785,7 +785,7 @@
  {
   "input": "But the better mental image to hold in your mind is that when the propagating light waves caused by some wiggling charge reach some second charge causing it to wiggle, that secondary wiggle results in its own propagation.",
   "model": "nmt",
-  "translatedText": "Ma l'immagine mentale migliore da tenere a mente è che quando le onde luminose che si propagano causate da una carica oscillante raggiungono una seconda carica che la fa oscillare, quell'oscillazione secondaria si traduce nella sua stessa propagazione.",
+  "translatedText": "Ma l'immagine mentale migliore da tenere a mente è che quando le onde luminose che si propagano causate da una carica oscillante raggiungono una seconda carica facendola oscillare, quell'oscillazione secondaria si traduce nella sua stessa propagazione.",
   "time_range": [
    723.78,
    735.06
@@ -803,7 +803,7 @@
  {
   "input": "If you have some concentrated beam of polarized light interacting with some charge, causing it to wiggle up and down, then these resulting second order propagations are most strong in the directions perpendicular to the direction of polarization.",
   "model": "nmt",
-  "translatedText": "Se si dispone di un raggio concentrato di luce polarizzata che interagisce con una carica, facendola oscillare su e giù, allora queste risultanti propagazioni del secondo ordine sono più forti nelle direzioni perpendicolari alla direzione di polarizzazione.",
+  "translatedText": "Se si considera un raggio concentrato di luce polarizzata che interagisce con una carica, facendola oscillare su e giù, allora queste risultanti propagazioni del secondo ordine sono più forti nelle direzioni perpendicolari alla direzione di polarizzazione.",
   "time_range": [
    747.16,
    761.04
@@ -830,7 +830,7 @@
  {
   "input": "Again, the key phenomenon with sugar water, which we have yet to explain, is that the polarization direction is slowly getting twisted as it goes down the tube.",
   "model": "nmt",
-  "translatedText": "Ancora una volta, il fenomeno chiave con l'acqua zuccherata, che dobbiamo ancora spiegare, è che la direzione della polarizzazione viene lentamente distorta mentre scende nel tubo.",
+  "translatedText": "Ancora una volta, il fenomeno chiave con l'acqua zuccherata, che dobbiamo ancora spiegare, è che la direzione della polarizzazione viene lentamente attorcigliata mentre scende nel tubo.",
   "time_range": [
    784.3,
    792.56
@@ -839,7 +839,7 @@
  {
   "input": "So suppose the observer was looking at a point like this one, where the polarization direction happens to be straight up and down.",
   "model": "nmt",
-  "translatedText": "Supponiamo quindi che l'osservatore stia guardando un punto come questo, dove la direzione della polarizzazione sembra essere diritta verso l'alto e verso il basso.",
+  "translatedText": "Supponiamo quindi che l'osservatore stia guardando un punto come questo, dove la direzione della polarizzazione sembra essere dritta verso l'alto e verso il basso.",
   "time_range": [
    793.36,
    799.28
@@ -848,7 +848,7 @@
  {
   "input": "Then the second order propagations resulting from wiggling charges at that point are most strong along the plane where the observer is, so the amount of red that they see at that point would look stronger.",
   "model": "nmt",
-  "translatedText": "Quindi le propagazioni del secondo ordine risultanti dalle cariche oscillanti in quel punto sono più forti lungo il piano in cui si trova l'osservatore, quindi la quantità di rosso che vedono in quel punto sembrerebbe più forte.",
+  "translatedText": "Quindi le propagazioni del secondo ordine risultanti dalle cariche oscillanti in quel punto sono più forti lungo il piano in cui si trova l'osservatore, quindi la quantità di rosso che vede in quel punto sembrerebbe più forte.",
   "time_range": [
    799.28,
    810.14
@@ -857,7 +857,7 @@
  {
   "input": "By contrast, if they were looking at a different point in the tube like this one, where the wiggling direction is closer to being parallel to the line of sight, then the direction where the scattering is strongest is not at all aligned with the observer, and the amount of red they see is only going to be very weak.",
   "model": "nmt",
-  "translatedText": "Al contrario, se guardassero un punto diverso nel tubo come questo, dove la direzione di oscillazione è più vicina ad essere parallela alla linea di vista, allora la direzione in cui la dispersione è più forte non è affatto allineata con l'osservatore, e la quantità di rosso che vedranno sarà solo molto debole.",
+  "translatedText": "Al contrario, se guardassero un punto diverso nel tubo come questo, dove la direzione di oscillazione è più vicina ad essere parallela alla linea visiva, allora la direzione in cui la dispersione è più forte non è affatto allineata con l'osservatore, e la quantità di rosso che vedranno sarà solo molto debole.",
   "time_range": [
    811.08,
    825.26
@@ -875,7 +875,7 @@
  {
   "input": "As you scan your eyes along the tube, the intensity of red that you see goes from being high to being low, where it's almost black, back to being high again.",
   "model": "nmt",
-  "translatedText": "Mentre scruti gli occhi lungo il tubo, l'intensità del rosso che vedi passa da alta a bassa, dove è quasi nera, per tornare di nuovo alta.",
+  "translatedText": "Mentre muovi gli occhi lungo il tubo, l'intensità del rosso che vedi passa da alta a bassa, dove è quasi nera, per tornare di nuovo alta.",
   "time_range": [
    835.02,
    844.74
@@ -893,7 +893,7 @@
  {
   "input": "Then putting yourself in the shoes of the observer, when you look at points where the ribbon appears very thin, you're going to see very little red light, whereas if you scan your eyes over to points where the ribbon appears thicker, you're going to see more red light.",
   "model": "nmt",
-  "translatedText": "Poi mettendoti nei panni dell'osservatore, quando guardi i punti in cui il nastro appare molto sottile, vedrai pochissima luce rossa, mentre se scruti i punti in cui il nastro appare più spesso, vedrai pochissima luce rossa. Vedremo più semaforo rosso.",
+  "translatedText": "Poi mettendoti nei panni dell'osservatore, quando guardi i punti in cui il nastro appare molto sottile, vedrai pochissima luce rossa, mentre se scruti i punti in cui il nastro appare più spesso, vedrai più luce rossa.",
   "time_range": [
    852.84,
    865.26
@@ -902,7 +902,7 @@
  {
   "input": "One thing that's nice about this is that if we try it for various different colors, you can actually see how the twisting rates are different for each one of the colors.",
   "model": "nmt",
-  "translatedText": "Una cosa bella di questo è che se lo proviamo per vari colori diversi, puoi effettivamente vedere come i tassi di torsione sono diversi per ciascuno dei colori.",
+  "translatedText": "Una cosa bella di questo è che se lo proviamo per vari colori diversi, puoi effettivamente vedere come i tassi di attorcigliamento sono diversi per ciascuno dei colori.",
   "time_range": [
    865.96,
    873.24
@@ -920,7 +920,7 @@
  {
   "input": "So what you're seeing in effect is how red light twists slowly, whereas light waves with higher frequencies get twisted more aggressively.",
   "model": "nmt",
-  "translatedText": "Quindi quello che vedete in effetti è come la luce rossa si attorciglia lentamente, mentre le onde luminose con frequenze più alte si attorcigliano in modo più aggressivo.",
+  "translatedText": "Quindi quello che vedi in effetto è come la luce rossa si attorciglia lentamente, mentre le onde luminose con frequenze più alte si attorcigliano in modo più aggressivo.",
   "time_range": [
    888.72,
    897.1
@@ -938,7 +938,7 @@
  {
   "input": "Why is it that in addition to having variation as you scan your eyes from left to right, there's also variation as you scan your eyes from the top of the tube to the bottom?",
   "model": "nmt",
-  "translatedText": "Perché oltre ad avere variazioni quando si esegue la scansione degli occhi da sinistra a destra, c'è anche una variazione quando si esegue la scansione degli occhi dalla parte superiore a quella inferiore del tubo?",
+  "translatedText": "Perché oltre ad avere variazioni quando muovi gli occhi da sinistra a destra, c'è anche una variazione quando muovi gli occhi dalla parte superiore a quella inferiore del tubo?",
   "time_range": [
    906.2,
    915.04
@@ -947,7 +947,7 @@
  {
   "input": "This has less to do with what's going on in the tube and more to do with a matter of perspective.",
   "model": "nmt",
-  "translatedText": "Questo ha meno a che fare con quello che succede nella metropolitana e più con una questione di prospettiva.",
+  "translatedText": "Questo ha meno a che fare con quello che succede nel tubo e più con una questione di prospettiva.",
   "time_range": [
    915.92,
    920.58
@@ -965,7 +965,7 @@
  {
   "input": "At the beginning, all of these light waves are wiggling up and down, and as you pass through the tube and the effects of the sugar water somehow twists these directions, because they're all passing through the same amount of sugar, they're getting twisted by the same amounts.",
   "model": "nmt",
-  "translatedText": "All'inizio, tutte queste onde luminose si muovono su e giù, e mentre passi attraverso il tubo e gli effetti dell'acqua zuccherata in qualche modo distorcono queste direzioni, perché passano tutte attraverso la stessa quantità di zucchero, sono essere distorto dalle stesse quantità.",
+  "translatedText": "All'inizio, tutte queste onde luminose si muovono su e giù, e mentre passi attraverso il tubo e gli effetti dell'acqua zuccherata in qualche modo attorcigliano queste direzioni, perché passano tutte attraverso la stessa quantità di zucchero, si stanno attorcigliando della stessa quantità.",
   "time_range": [
    927.02,
    939.5
@@ -983,7 +983,7 @@
  {
   "input": "If you're the observer and you look at the topmost point here, its wiggling direction is essentially parallel to the line of sight, so the light scattering from that point is basically not going to reach your eyes at all.",
   "model": "nmt",
-  "translatedText": "Se sei l'osservatore e guardi il punto più in alto qui, la sua direzione di oscillazione è essenzialmente parallela alla linea di vista, quindi la luce diffusa da quel punto praticamente non raggiungerà affatto i tuoi occhi.",
+  "translatedText": "Se sei l'osservatore e guardi il punto più in alto qui, la sua direzione di oscillazione è essenzialmente parallela alla linea visiva, quindi la luce diffusa da quel punto praticamente non raggiungerà affatto i tuoi occhi.",
   "time_range": [
    944.66,
    955.12
@@ -1001,7 +1001,7 @@
  {
   "input": "But if you scan your eyes down the tube, the angle between the line of sight and the wiggling direction changes, and so there will be at least some component of red light scattering towards the eye.",
   "model": "nmt",
-  "translatedText": "Ma se si esaminano gli occhi lungo il tubo, l'angolo tra la linea di vista e la direzione di oscillazione cambia, e quindi ci sarà almeno qualche componente di luce rossa che si diffonde verso l'occhio.",
+  "translatedText": "Ma se muovi gli occhi lungo il tubo, l'angolo tra la linea visiva e la direzione di oscillazione cambia, e quindi ci sarà almeno qualche componente di luce rossa che si diffonde verso l'occhio.",
   "time_range": [
    956.76,
    966.02
@@ -1010,7 +1010,7 @@
  {
   "input": "So as you scan your eyes from top to bottom, the amount of a particular color you see might vary, say from dark to light.",
   "model": "nmt",
-  "translatedText": "Quindi, mentre esplori i tuoi occhi dall'alto verso il basso, la quantità di un particolare colore che vedi potrebbe variare, ad esempio da scuro a chiaro.",
+  "translatedText": "Quindi, mentre muovi i tuoi occhi dall'alto verso il basso, la quantità di un particolare colore che vedi potrebbe variare, ad esempio da scuro a chiaro.",
   "time_range": [
    966.02,
    973.06
@@ -1028,7 +1028,7 @@
  {
   "input": "And now at last let's turn to the heart of the matter and try to explain why interactions with sugar would make light twist like this in the first place.",
   "model": "nmt",
-  "translatedText": "E ora, finalmente, passiamo al nocciolo della questione e proviamo a spiegare perché le interazioni con lo zucchero potrebbero far sì che la luce distorca in questo modo.",
+  "translatedText": "E ora, finalmente, passiamo al nocciolo della questione e proviamo a spiegare perché le interazioni con lo zucchero potrebbero far sì che la luce si attorcigli in questo modo.",
   "time_range": [
    991.22,
    999.48
@@ -1046,7 +1046,7 @@
  {
   "input": "For example, if you look at the crests of a light wave as it goes into water, the crests through the water are traveling about 1.33 times slower than the crests of that wave would travel in a vacuum.",
   "model": "nmt",
-  "translatedText": "Ad esempio, se osservi le creste di un'onda luminosa mentre entra nell'acqua, le creste attraverso l'acqua percorrono circa 1.33 volte più lentamente di quanto le creste di quell'onda viaggerebbero nel vuoto.",
+  "translatedText": "Ad esempio, se osservi le creste di un'onda luminosa mentre entra nell'acqua, le creste attraverso l'acqua viaggiano circa 1.33 volte più lentamente di quanto le creste di quell'onda viaggerebbero nel vuoto.",
   "time_range": [
    1004.9,
    1015.54
@@ -1136,7 +1136,7 @@
  {
   "input": "It turns out that the amount this chiral molecule slows down, say, left-handed circularly polarized light is different from the amount that it slows down right-handed circularly polarized light.",
   "model": "nmt",
-  "translatedText": "Si scopre che la quantità di questa molecola chirale rallenta, diciamo, la luce polarizzata circolarmente sinistrorsa, è diversa dalla quantità di cui rallenta la luce polarizzata circolarmente destrorsa.",
+  "translatedText": "Si scopre che la quantità con cui questa molecola chirale rallenta, diciamo, la luce polarizzata circolarmente sinistrorsa, è diversa dalla quantità con cui rallenta la luce polarizzata circolarmente destrorsa.",
   "time_range": [
    1095.06,
    1105.76
@@ -1145,7 +1145,7 @@
  {
   "input": "Effectively, there's not one index of refraction, but two.",
   "model": "nmt",
-  "translatedText": "In effetti, non esiste un indice di rifrazione, ma due.",
+  "translatedText": "In effetti, non esiste un solo indice di rifrazione, ma due.",
   "time_range": [
    1106.1,
    1109.24
@@ -1154,7 +1154,7 @@
  {
   "input": "Now you might say that seems irrelevant to our setup, since we are very deliberately shining in linearly polarized light, there is no circularly polarized light.",
   "model": "nmt",
-  "translatedText": "Ora si potrebbe dire che sembra irrilevante per la nostra configurazione, dal momento che stiamo deliberatamente brillando in una luce polarizzata linearmente, non c'è luce polarizzata circolarmente.",
+  "translatedText": "Ora si potrebbe dire che sembra irrilevante per la nostra configurazione, dal momento che stiamo deliberatamente proiettando una luce polarizzata linearmente, non c'è luce polarizzata circolarmente.",
   "time_range": [
    1110.2,
    1118.7
@@ -1163,7 +1163,7 @@
  {
   "input": "But actually, there's a sense in which linearly polarized light is equal parts left-handed and right-handed circularly polarized light.",
   "model": "nmt",
-  "translatedText": "Ma in realtà, c'è un senso in cui la luce polarizzata linearmente è in parti uguali luce polarizzata circolarmente destrorsa e sinistrorsa.",
+  "translatedText": "Ma in realtà, c'è un modo in cui la luce polarizzata linearmente è in parti uguali luce polarizzata circolarmente destrorsa e sinistrorsa.",
   "time_range": [
    1119.36,
    1126.06
@@ -1208,7 +1208,7 @@
  {
   "input": "Here, let me throw up a couple labels to keep track of how much each one of those two vectors has rotated in total, and then every now and then I'm going to slow down that first vector a little bit, and I want you to notice what happens to their sum.",
   "model": "nmt",
-  "translatedText": "Ecco, lasciami lanciare un paio di etichette per tenere traccia di quanto ciascuno di questi due vettori ha ruotato in totale, e poi ogni tanto rallenterò un po' il primo vettore, e ti voglio per notare cosa succede alla loro somma.",
+  "translatedText": "Ecco, lasciami lanciare un paio di etichette per tenere traccia di quanto ciascuno di questi due vettori ha ruotato in totale, e poi ogni tanto rallenterò un po' il primo vettore, e voglio che noti cosa succede alla loro somma.",
   "time_range": [
    1160.44,
    1172.26
@@ -1226,7 +1226,7 @@
  {
   "input": "So if the circularly polarized light wave represented by that left vector gets slowed down a little bit every time it runs across a sugar molecule, or at least slowed down more than its oppositely rotating counterpart would, the effect on the sum is to slowly rotate the direction of linear polarization.",
   "model": "nmt",
-  "translatedText": "Quindi, se l'onda luminosa polarizzata circolarmente rappresentata da quel vettore di sinistra viene rallentata un po' ogni volta che attraversa una molecola di zucchero, o almeno rallenta più di quanto farebbe la sua controparte che ruota in senso opposto, l'effetto sulla somma è di ruotare lentamente l'onda luminosa polarizzata circolarmente rappresentata da quel vettore di sinistra. direzione della polarizzazione lineare.",
+  "translatedText": "Quindi, se l'onda luminosa polarizzata circolarmente rappresentata da quel vettore di sinistra viene rallentata un po' ogni volta che attraversa una molecola di zucchero, o almeno rallenta più di quanto farebbe la sua controparte che ruota in senso opposto, l'effetto sulla somma è di ruotare lentamente la direzione della polarizzazione lineare.",
   "time_range": [
    1186.28,
    1203.42
@@ -1235,7 +1235,7 @@
  {
   "input": "And hence, as you look at slices further and further down the tube, the polarization direction does indeed get twisted the way we were describing earlier, representing how the composite effects with many many many different sugar molecules are slightly different for left-handed light than they are for right-handed light.",
   "model": "nmt",
-  "translatedText": "E quindi, guardando le fette sempre più in basso nel tubo, la direzione di polarizzazione viene effettivamente distorta nel modo in cui stavamo descrivendo prima, rappresentando come gli effetti compositi con molte molte molte diverse molecole di zucchero sono leggermente diversi per la luce mancina rispetto a sono per la luce destrorsa.",
+  "translatedText": "E quindi, guardando le fette sempre più in basso nel tubo, la direzione di polarizzazione viene effettivamente attorcigliata nel modo in cui stavamo descrivendo prima, rappresentando come gli effetti compositi con molte molte molte diverse molecole di zucchero sono leggermente diversi per la luce mancina rispetto a sono per la luce destrorsa.",
   "time_range": [
    1204.22,
    1219.2
